@@ -8,4 +8,4 @@ for i in range(1,money+1):
             k = i - j
             if s[k]+1 < s[i]:
                 s[i]=s[k]+1
-print(s)    
+print(s[money])    
