@@ -2,7 +2,7 @@
 ![werwer](https://github.com/mohammad-hasan-shahroodi/coins/assets/140893151/1578e7be-b284-41ae-8fb8-8cb7b262056b)
 ######
 #### In this algorithm you find minimum number of coins that make a given value .
-- ##### you should type your money at first:
+- ##### You should type your money at first:
   - ```python
     money = int(input())
     ```
